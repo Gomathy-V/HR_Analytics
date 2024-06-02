@@ -7,7 +7,7 @@
 ### Dataset
 - The dataset contains detailed information about employees, including various job-related metrics and personal attributes.
 
-### Key features include:
+**Key features include:**
 
 - **satisfactoryLevel:** Employee's self-reported job satisfaction level (scale 0-1)
 - **lastEvaluation:** The score of the employee's last evaluation (scale 0-1)
