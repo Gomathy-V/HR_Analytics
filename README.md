@@ -5,20 +5,18 @@
 - This project aims to analyze why employees are leaving the company using a comprehensive people dataset. The objective is to identify key factors contributing to employee departures and provide actionable insights to improve retention rates.
 
 ### Dataset
-- The dataset contains detailed information about employees, including various job-related metrics and personal attributes.
+- The dataset contains detailed information about employees, including various job-related metrics and personal attributes as below,
 
-**Key features include:**
-
-- **satisfactoryLevel:** Employee's self-reported job satisfaction level (scale 0-1)
-- **lastEvaluation:** The score of the employee's last evaluation (scale 0-1)
-- **numberOfProjects:** Number of projects the employee has worked on
-- **avgMonthlyHours:** Average number of hours worked per month by the employee
-- **timeSpentCompany:** Number of years the employee has been with the company
-- **workAccident:** Whether the employee has had a work accident (1 = Yes, 0 = No)
-- **left:** Whether the employee has left the company (1 = Yes, 0 = No, target variable)
-- **promotionInLast5years:** Whether the employee has been promoted in the last 5 years (1 = Yes, 0 = No)
-- **dept:** Department where the employee works
-- **salary:** Employee's salary level (low, medium, high)
+   - **satisfactoryLevel:** Employee's self-reported job satisfaction level (scale 0-1)
+   - **lastEvaluation:** The score of the employee's last evaluation (scale 0-1)
+   - **numberOfProjects:** Number of projects the employee has worked on
+   - **avgMonthlyHours:** Average number of hours worked per month by the employee
+   - **timeSpentCompany:** Number of years the employee has been with the company
+   - **workAccident:** Whether the employee has had a work accident (1 = Yes, 0 = No)
+   - **left:** Whether the employee has left the company (1 = Yes, 0 = No, target variable)
+   - **promotionInLast5years:** Whether the employee has been promoted in the last 5 years (1 = Yes, 0 = No)
+   - **dept:** Department where the employee works
+   - **salary:** Employee's salary level (low, medium, high)
  
 ### Tools and Technologies
 
