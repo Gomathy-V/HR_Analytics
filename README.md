@@ -37,10 +37,10 @@
 
 #### EDA involved exploring the data in such a way that:
 
-- Analyze the distribution of features.
-- Identify trends and patterns.
-- Visualize correlations between features and the target variable (left).
-- Examine demographic breakdowns and their impact on departure rates.
+- Analyzed the distribution of features.
+- Identified trends and patterns.
+- Visualized correlations between features and the target variable (left).
+- Examined demographic breakdowns and their impact on departure rates.
 
 
 ### Insights
@@ -79,17 +79,17 @@
 
 #### 1. Optimize project assignments
 
-- **Issue:** Departure rate peaks among those managing two or seven projects.
-- **Recommendation:** The average number of projects assigned to all employees should be 3-5.Redistribute the workload among employees handling two projects to balance out the workload from those handling seven projects.
+- **Issue:** Departure rate peaks among those managing 2 or 7 projects.
+- **Recommendation:** The average number of projects assigned to all employees should be 3-5. Redistribute the workload among employees handling 2 projects to balance out the workload from those handling 7 projects.
 
 #### 2. Reward Policy for Long-term Employees
 
-- **Issue:** Employees are leaving the organization after 3-5 years.
-- **Recommendation:** Upon completing 3-5 years, they should be rewarded with such things as hikes, better job positions, incentives, or increments.
+- **Issue:** Elevated employee turnover rates observed after 3-5 years of service.
+- **Recommendation:** Upon completing 3-5 years, they should be rewarded with such things like hikes, better job positions, incentives, or increments.
 
-#### 3. Addressing Attrition Through Timely Promotions
+#### 3. Addressing Attrition through Timely Promotions
 
-- **Issue:** Non-promoted employees in 5 years leaving more.
+- **Issue:** Higher turnover among employees not promoted within 5 years.
 - **Recommendation:** Give promotions to all employees in a timely manner.
 
 #### 4. Streamlining Workloads
@@ -99,7 +99,7 @@
 
 #### 5. Fair Compensation Policy
 
-- **Issue:** Lower to moderate earners leave more; higher earners, less. 
+- **Issue:** Lower to moderate earners have higher turnover rates, while higher earners are less likely to leave. 
 - **Recommendation:** Provide employees with a salary that is fair and commensurate with their skills, experience, and contributions to the organization.
 
 #### 6. Ensuring Reasonable Working Hours
