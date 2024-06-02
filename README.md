@@ -5,7 +5,9 @@
 - This project aims to analyze why employees are leaving the company using a comprehensive people dataset. The objective is to identify key factors contributing to employee departures and provide actionable insights to improve retention rates.
 
 ### Dataset
-- The dataset contains detailed information about employees, including various job-related metrics and personal attributes. Key features include:
+- The dataset contains detailed information about employees, including various job-related metrics and personal attributes.
+
+### Key features include:
 
 - **satisfactoryLevel:** Employee's self-reported job satisfaction level (scale 0-1)
 - **lastEvaluation:** The score of the employee's last evaluation (scale 0-1)
